@@ -1,0 +1,9 @@
+Assalomu alaykum.
+Bu topshiriqda siz inputda to'ldirilgan ma'lumotni telegram botga yuboradigan qilishingiz kerak bo'ladi.
+Buning uchun sizga Youtube hamda github link kerak bo'ladi.
+Siz uchun kerakli havolalar qoldiraman:
+
+You Tube: https://youtu.be/zn5TF8kGXlw
+Github: https://github.com/mislombek1512/telegrambot-islomjon.uz
+
+E'tibor bering. Videoda 3 ta ma'lumot jo'natish ko'rsatilgan. Lekin sizda 4 ta. Siz uddalay olasiz. Ishonaman.
